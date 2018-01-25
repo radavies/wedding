@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'caviar_dreamsregular';
+    src: url('caviardreams-webfont.woff2') format('woff2'),
+         url('caviardreams-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'caviar_dreamsbold';
+    src: url('caviardreams_bold-webfont.woff2') format('woff2'),
+         url('caviardreams_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    font-family: "caviar_dreamsregular","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    color: #231f20;
+    font-size: 1.1rem;
+}
+
+h1 {
+  font-family: "caviar_dreamsregular","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
+
+.grid-container {
+  max-width: 60rem;
+}
+
+.top-pad-lg {
+  padding-top: 4rem;
+}
+
+.top-pad-med {
+  padding-top: 2rem;
+}
+
+.top-pad-sm {
+  padding-top: 1rem;
+}
+
+
+.no-styles-link {
+  color: #231f20;
+}
+
+.no-styles-link:hover {
+   color: #6d6f71;
+}
