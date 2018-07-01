@@ -42,6 +42,9 @@ h1 {
   padding-top: 1rem;
 }
 
+.bottom-pad-small {
+  padding-bottom: 1rem;
+}
 
 .no-styles-link {
   color: #231f20;
